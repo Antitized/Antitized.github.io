@@ -5,19 +5,25 @@ body {
 h1 {
     color: #000000;
 	font-size: 6em;
-	margin-top: 1em;
+	margin-top: 0.3em;
+	margin-left: 0em;
+	margin-right: 0em;
+	margin-bottom: 0em;
+	text-align: center;
+	font-family: 'Round';
+}
+
+h2 {
+    color: #000000;
+	font-size: 1.5em;
+	margin-top: -1.0em;
 	margin-left: 0em;
 	margin-right: 0em;
 	margin-bottom: 0em;
 	text-align: center;
 }
 
-h2 {
-    color: #000000;
-	font-size: 1.5em;
-	margin-top: 0em;
-	margin-left: 0em;
-	margin-right: 0em;
-	margin-bottom: 0em;
-	text-align: center;
+@font-face {
+    font-family: 'Round';
+	src: url('Antitized.github.io/round.ttf');
 }
