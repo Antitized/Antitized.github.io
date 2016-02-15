@@ -1,2 +1,2 @@
-# Antitized.github.io
+## Antitized.github.io
 The Antitized Website
