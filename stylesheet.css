@@ -16,7 +16,7 @@ img.logo {
 
 h1 {
     color: #000000;
-	font-size: 100;
+	font-size: 600%;
 	margin-top: 10px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -27,7 +27,7 @@ h1 {
 
 h2 {
     color: #000000;
-	font-size: 26;
+	font-size: 150%;
 	margin-top: -20px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -38,7 +38,7 @@ h2 {
 
 h3 {
     color: #000000;
-	font-size: 16px;
+	font-size: 100%;
 	margin-top: 0px;
 	margin-left: 0px;
 	margin-right: 0px;
